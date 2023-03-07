@@ -1,0 +1,22 @@
+ul {
+margin-left: 450px;
+font-size:20px;
+list-style : none;
+}
+#mainmenu li{
+float: left;
+width: 200px;
+border: 4px black;
+}
+#mainmenu a{
+width: 140px;
+border: 4px black;
+display: black;
+padding: 25px;
+text-decoration: none;
+background-color: red;
+text-emphasis-color : #000000;
+}
+#mainmenu a:hover{
+background-color: #009000;
+}
